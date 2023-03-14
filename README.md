@@ -10,3 +10,4 @@
 10.	Advance DAX Calcs - create complex measures and calculations using DAX.
 11.	Reports & Visualization - create reports and visualizations using the data model and measures created.
 12.	Formatting - format reports and visualizations to enhance their presentation and readability.
+![Sale Overview](https://user-images.githubusercontent.com/112715562/224932541-47f65b28-7278-491b-896c-d72dd1bd9c80.png)
