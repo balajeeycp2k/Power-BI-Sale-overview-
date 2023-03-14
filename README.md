@@ -1,3 +1,4 @@
+![Sale Overview](https://user-images.githubusercontent.com/112715562/224932541-47f65b28-7278-491b-896c-d72dd1bd9c80.png)
 1.	Evaluate Dataset - assess the quality and relevance of the data for the project.
 2.	Connect to Data - connect to the data source and import the data into Power BI.
 3.	Understand Power Query Editor - familiarize yourself with the tool to transform and clean data.
@@ -10,4 +11,3 @@
 10.	Advance DAX Calcs - create complex measures and calculations using DAX.
 11.	Reports & Visualization - create reports and visualizations using the data model and measures created.
 12.	Formatting - format reports and visualizations to enhance their presentation and readability.
-![Sale Overview](https://user-images.githubusercontent.com/112715562/224932541-47f65b28-7278-491b-896c-d72dd1bd9c80.png)
